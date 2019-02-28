@@ -1,4 +1,4 @@
-package level2;
+package solutions;
 
 public class MaxGain {
 

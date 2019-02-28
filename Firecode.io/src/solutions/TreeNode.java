@@ -1,4 +1,4 @@
-package level2;
+package solutions;
 
 // TreeNode class provided to help solve problems
 
